@@ -26,7 +26,6 @@
     "computed-property-spacing": "error",
     "consistent-return": "error",
     "consistent-this": ["error", "$this"],
-    "curly": ["error", "multi-line", "consistent"],
     "default-case": "error",
     "default-param-last": "error",
     "dot-location": ["error", "property"],
