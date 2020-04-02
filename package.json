@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-almeida",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Strict ESLint config that I use.",
   "main": "index.js",
   "repository": {
