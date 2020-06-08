@@ -10,7 +10,7 @@
   "author": "Almeeida <management@almeidaa.tech> (https://almeeida.github.io) ",
   "license": "MIT",
   "dependencies": {
-    "eslint": "^6.8.0",
+    "eslint": "^7.2.0",
     "eslint-plugin-import": "^2.20.1"
   },
   "homepage": "https://github.com/Almeeida/eslint-config-almeida"
